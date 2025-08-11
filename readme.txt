@@ -43,6 +43,3 @@ freedthe old pointer to update the state of the heap. My validate heap kept trac
 and freed up space to ensure that the information was accurate and track when bugs arose during
 implementation. The dump_heap was just the same as the previous one.
 
-Tell us about your quarter in CS107!
------------------------------------
-Given my home circumstances, taking this class has been so challenging. However, for someone with literally no background in STEM before Stanford, I have been so amazed by the knowledge I have gained from this class and believe that it will be pivotal to my future success at Stanford.
